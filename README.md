@@ -36,8 +36,7 @@ To improve this, I use sparse Waymo LiDAR data as geometric guidance.
 The optimization includes:
 
 - global scale correction
-- Sim(3)-based bundle adjustment
-- local residual correction
+- Bundle Adjustment, including: Sim(3)-based bundle adjustment, local residual correction
 
 The optimized result is projected into the vehicle-frame BEV coordinate system.
 
