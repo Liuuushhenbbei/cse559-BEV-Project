@@ -1,0 +1,41 @@
+{
+  "frame_index": 30,
+  "timestamp_micros": 1511379226161595,
+  "cameras": [
+    {
+      "camera_id": 1,
+      "camera_name": "front",
+      "image_file": "front.png",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "camera_id": 2,
+      "camera_name": "front_left",
+      "image_file": "front_left.png",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "camera_id": 3,
+      "camera_name": "front_right",
+      "image_file": "front_right.png",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "camera_id": 4,
+      "camera_name": "side_left",
+      "image_file": "side_left.png",
+      "width": 1920,
+      "height": 886
+    },
+    {
+      "camera_id": 5,
+      "camera_name": "side_right",
+      "image_file": "side_right.png",
+      "width": 1920,
+      "height": 886
+    }
+  ]
+}
